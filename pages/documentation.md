@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+title: My Projects
+category: projects
+permalink: /projects
 ---
