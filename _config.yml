@@ -1,64 +1,98 @@
-# Developer's Note: This is a sample _config.yml file offered with
-# jekyll-theme-prologue for your convenience. To use it, move it to your
-# project's root directory. Please note that the following lines are
-# NECESSARY for Prologue to work correctly:
+# Theme Antarctica
 #
-# theme: jekyll-theme-prologue
-# collections: [sections]
+# Stylish and feature-rich theme for Jekyll
+# 
+# Website: https://github.com/SdtElectronics/jekyll-theme-antarctica
 #
-# They activate the theme and tell Jekyll to find your homepage content
-# in /_sections. Note where "sections" starts with an underscore
-# and where it doesn't. The social settings will make links to
-# Twitter, etc., but only if you give the URL.
-#
-# Also, be sure to customize url and baseurl for your site.
-#
-# ---------------------------------------------------------------
-#
-# Welcome to Jekyll!
+# See the LICENCE file.
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# which you are expected to set up once and rarely edit after that.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# For technical reasons, this file is *NOT* reloaded automatically when you
+# use 'bundle exec jekyll serve'. If you change this file, please restart
+# the server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-subtitle: Your awesome subtitle
+
+title: Theme Antarctica
+email: your-email@domain.com
+author: SdtElectronics
+
+# Copyright setting
+# You can use any html code, currently below placeholders are available:
+# * current year: {currentYear}
+# * author: {author} (Value is the same as site.author)
+# * copyright: (c) - ©
+# * copyleft: (cleft)
+# * sound recording copyright: (p) - ℗ 
+#
+# For example:
+#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright © 2017-2021 Foobar"
+#
+copyright: "2021-{currentYear} {author}"
+
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/jekyll-theme-antarctica" # the subpath of your site, e.g. /blog
+url: "https://sdtelectronics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "" # the favicon for your site
+#avatar: ""
 
-# You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+template:
+# date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%b %d, %Y"
+  widgets: colophon comment global_cmt post_meta share related_sites table_of_content
+  portfolios: projects gallery
+  propIcons:
+    pinned: "&#x1f4cc;&#xFE0E;"
 
-# Social settings
-# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
-stackoverflow_url:
-pinterest_url:
-slack_url:
-dribbble_url:
+# If you want to generate website sitemap, you can set true
+# sitemap: false
 
-# Google Analytics Tracking ID goes here:
-google_analytics:
+# Valine Comments
+valine:
+  appId: "GoHOdR14a6Qubobq68emQ8n2-MdYXbMMI"
+  appKey: "SCxcdTzApt8RXJVrtqsDXay0"
+  serverURLs: https://gohodr14.api.lncldglobal.com
 
-# The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
-collections: [sections]
+collections_dir: collections
+collections:
+  projects:
+    output: true
+  gallery:
+    output: true
+  
+projects_categories: 
+  - Hardware
+  - Software
+
+related_sites:
+  Jekyll | Static site generator: https://jekyllrb.com
+  Source Repo | Theme antarctica: https://github.com/SdtElectronics/jekyll-theme-antarctica
+  My Homepage | SdtElectronics: https://sdtelectronics.github.io/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      avatar: "assets/img/a-default.png"
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

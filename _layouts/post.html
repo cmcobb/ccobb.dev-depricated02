@@ -1,18 +1,8 @@
 ---
-layout: default
+layout: scaffold
 ---
-{%- include header.html -%}
 
-<!-- Main -->
-<div id="main">
-	<!-- Post -->
-	<article class="shade-two">
-	  <div class="container">
-			<header>
-				<h2>{{- page.title -}}</h2>
-				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
-			</header>
-	    {{- content -}}
-	  </div>
-	</article>
+<div class = "mid-content mid-page fixedCont shadowTile">
+    <div id = "midContTop"></div>
+    {{ content }}
 </div>
