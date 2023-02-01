@@ -10,7 +10,7 @@ permalink: /cv
 * Certificate in Media Ministry
   * Arkansas State University, 2023 (En Route)
   
-  
+<br>
   
 # Current Work
 ### Video Editor (Intern)
@@ -33,7 +33,7 @@ permalink: /cv
 * Subjects Tutored: Concepts of Programming, Structured Programming, Web-Application Development
 * Supervisor: Kelli Listenbee
   
-
+<br>
 
 # Former Work
 ### Traveling Audio Visual Specialist
@@ -74,9 +74,9 @@ permalink: /cv
 * Warren School District
 * August 2017 - August 2018
 * Supervisor: Justin Hollingsworth
-  
-  
-  
+    
+<br>
+
 # Skills
 * Adobe Products:
     * Premiere Pro
@@ -84,7 +84,7 @@ permalink: /cv
     * Lightroom
     * Illustrator
     * Photoshop
-Programming (Languages & Frameworks)
+* Programming (Languages & Frameworks)
   * C
   * C++
   * JavaScript
@@ -97,9 +97,10 @@ Programming (Languages & Frameworks)
   * Creating lyrics slides
   * Using CCLI SongSelect
   * Utilizing Stage Screen Tools (Timers, Stage Messages, Etc.)
-* Live Audio Mixxing
+* Live Audio Mixing
   
-  
+ <br> 
+ 
 <!---
 Publications
 ======
