@@ -10,7 +10,7 @@ image: cuba-1.jpg
 
 In the beginning of 2022, I was reached out to by Nettleton Baptist Church in Jonesboro, Arkansas to help shoot three music videos for their Easter programming. Working with their team was amazing, and I couldn't have asked for a better experience. Here is what we made.
 
-<div text-align="center" >
+<div style="text-align: center" >
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-52D3Qi0XM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUmuD5KNiew?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
