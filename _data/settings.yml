@@ -7,8 +7,8 @@ disqus:
 google-ID: 'G-Q88S490K01'
 
 menu:
-- {name: 'C.V.',               url: 'cv'}
-- {name: 'Portfolio',          url: 'protfolio'}
+- {name: 'C.V.',               url: 'CV'}
+- {name: 'Portfolio',          url: 'portfolio'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
