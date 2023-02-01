@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
+***
+
 # Education
 * B.A. in Computer Science (Emphasis in E-Commerce)
   * Arkansas State University, 2023 (En Route)
