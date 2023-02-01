@@ -4,7 +4,7 @@ title: "As We Gather's 2022 Easter Music Videos"
 author: "Cameorn Cobb"
 categories: [portfolio,videography]
 tags: [easter,video,music]
-image: cuba-1.jpg
+image: AWG_Cover.jpg
 ---
 
 

@@ -4,7 +4,7 @@ title: "World Changers 2022"
 author: "Cameorn Cobb"
 categories: [portfolio,videography,photography]
 tags: [photos,video,ministry]
-image: cuba-1.jpg
+image: WC_Cover.jpg
 ---
 
 World Changers gave me the opportunity to travel to Missions Sites around the country and film what they're all about! Here are a few additional videos that I created for them, and click <a href="https://www.world-changers.net/" class="text-danger" target="_blank">here</a> to find out more about world-changers.
