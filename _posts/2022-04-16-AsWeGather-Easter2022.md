@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "As We Gather's 2022 Easter Music Videos"
-author: "Cameorn Cobb"
+author: "Cameron Cobb"
 categories: [portfolio,videography]
 tags: [easter,video,music]
 image: AWG_Cover.jpg
