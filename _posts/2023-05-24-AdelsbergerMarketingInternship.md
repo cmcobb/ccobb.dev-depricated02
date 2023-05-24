@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adelsberger Marketing Internship"
-author: "Cameorn Cobb"
+author: "Cameron Cobb"
 categories: [portfolio,videography]
 tags: [internship,professional,narrative,podcast]
 image: AWG_Cover.jpg
