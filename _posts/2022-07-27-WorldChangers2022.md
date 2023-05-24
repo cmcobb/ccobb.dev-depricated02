@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World Changers 2022"
-author: "Cameorn Cobb"
+author: "Cameron Cobb"
 categories: [portfolio,videography,photography]
 tags: [photos,video,ministry]
 image: WC_Cover.jpg
