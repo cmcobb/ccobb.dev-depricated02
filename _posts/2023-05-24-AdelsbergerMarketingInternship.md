@@ -4,7 +4,7 @@ title: "Adelsberger Marketing Internship"
 author: "Cameron Cobb"
 categories: [portfolio,videography]
 tags: [internship,professional,narrative,podcast]
-image: AM2023_banner.png
+image: AM2023_banner.jpg
 ---
 
 
