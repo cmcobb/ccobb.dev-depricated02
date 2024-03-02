@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Night of Worship and Prayer 2023 - Under Construction"
+title: "Night of Worship and Prayer 2023"
 author: "Cameron Cobb"
 categories: [portfolio,videography]
 tags: [traveling,professional,videography,narrative]
