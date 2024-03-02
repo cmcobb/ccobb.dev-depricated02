@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mt. Zion Caravan Tour Concert - Under Construction"
+title: "Mt. Zion Caravan Tour Concert"
 author: "Cameron Cobb"
 categories: [portfolio,videography]
 tags: [traveling,professional,videography,narrative]
