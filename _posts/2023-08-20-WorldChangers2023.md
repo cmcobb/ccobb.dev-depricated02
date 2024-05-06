@@ -4,7 +4,7 @@ title: "World Changers 2023"
 author: "Cameron Cobb"
 categories: [portfolio,videography]
 tags: [traveling,professional,videography,narrative]
-image: BCM_F23_banner.jpg
+image: WC_2023.jpg
 ---
 
 I got to spend one more summer working with World Changers during 2023. Here are a few of my favorite videos that I got to produce!
