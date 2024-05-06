@@ -7,7 +7,7 @@ disqus:
 google-ID: 'G-Q88S490K01'
 
 menu:
-- {name: 'C.V.',               url: 'cv'}
+# - {name: 'C.V.',               url: 'cv'}
 - {name: 'Portfolio',          url: 'portfolio'}
 - {name: 'Contact',            url: 'contact'}
 
